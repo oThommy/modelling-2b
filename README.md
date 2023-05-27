@@ -6,7 +6,7 @@ Planning: https://docs.google.com/document/d/183vVBEheg9Vm7GuTYzWlVo_zXa3OJrRZxN
 Overleaf: https://www.overleaf.com/project/644902bedd93e9eb3f3369a1
 
 # Python environement setup
-Please ensure you have Python version 3.10 installed. Note that an internet connection is required in order to use pyvis.
+Please ensure you have Python version 3.10 installed.
 
 ## Using a normal Python installation
 ### Using cmd
