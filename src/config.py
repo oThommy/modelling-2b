@@ -57,6 +57,7 @@ def main():
     print(f'average_infection_rate={average_infection_rate / 1e6}+E06')
     print(f'{alpha=}')
     print(f'{beta=}')
+    print(f'{MILLISECONDS_IN_MONTH=}')
 
 
 if __name__ == '__main__':
