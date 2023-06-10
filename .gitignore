@@ -1,6 +1,8 @@
 # Custom
 /src/test/
 /src/local/
+.vscode
+.vsls.json
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
