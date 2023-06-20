@@ -9,12 +9,14 @@ ROOT_DIR = Path(__file__).parent.parent
 SRC_DIR = ROOT_DIR / 'src'
 OUT_DIR = ROOT_DIR / 'out'
 FIGURES_DIR = OUT_DIR / 'figures'
+RESULTS_DIR = OUT_DIR / 'results'
 DATA_DIR = ROOT_DIR / 'data'
 
-for dir in [OUT_DIR, FIGURES_DIR, DATA_DIR]:
+for dir in [OUT_DIR, FIGURES_DIR, RESULTS_DIR, DATA_DIR]:
     utils.ensure_dir_exists(dir)
 
 ENCODING = 'utf-8'
+JSON_INDENT = 4
 
 DAYS_IN_MEAN_GREGORIAN_YEAR = 365.2425
 MILLISECONDS_IN_MONTH = (DAYS_IN_MEAN_GREGORIAN_YEAR * 24 * 60 * 60 * 1000) / 12
