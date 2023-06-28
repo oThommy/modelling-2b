@@ -2,7 +2,7 @@
 """
 Created on Wed May 24 16:05:10 2023
 
-@author: loren
+@author: A.L. Termaat
 """
 # Define non linear system
 

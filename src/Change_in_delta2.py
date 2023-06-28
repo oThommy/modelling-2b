@@ -1,5 +1,5 @@
 # Program      : Euler's method for a system
-# Author       : D.E. Bos, T. Berkhout, en A.L. Termaat
+# Author       : D.E. Bos, T. Berkhout, and A.L. Termaat
 # Created      : 2023
 
 import numpy as np
