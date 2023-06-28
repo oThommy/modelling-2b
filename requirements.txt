@@ -7,5 +7,3 @@ scipy
 tqdm
 jupyter
 ipympl
-seaborn
-mypy
